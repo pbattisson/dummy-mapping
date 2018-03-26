@@ -1,0 +1,32 @@
+[       
+    {
+        "srcAttribute": "First_Name",
+        "destTable": "Person",
+        "destAttribute": "Forename"
+    },
+    {
+        "srcAttribute": "Last_Name",
+        "destTable": "Person",
+        "destAttribute": "Surname"
+    },
+    {
+        "srcAttribute": "Job",
+        "destTable": "Person",
+        "destAttribute": "Profession"
+    },
+    {
+        "srcAttribute": "Street1",
+        "destTable": "Address",
+        "destAttribute": "Street"
+    },
+    {
+        "srcAttribute": "City1",
+        "destTable": "Address",
+        "destAttribute": "City"
+    },
+    {
+        "srcAttribute": "Zip1",
+        "destTable": "Address",
+        "destAttribute": "Zip"
+    }
+]
